@@ -14,5 +14,5 @@ Originally designed the usual 3x3 for an academic assignment, but expanded for f
 ## Usage
 Download Python 3 and `main.py` from [Releases page](https://github.com/de-soot/tic-tac-toe-cli/releases/latest). Then run `main.py`:
 ```sh
-python main.py
+$ python main.py
 ```
