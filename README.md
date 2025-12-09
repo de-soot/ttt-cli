@@ -4,13 +4,12 @@ Classic game of Tic-tac-toe in the command-line interface; made with Python.
 Originally designed the usual 3x3 for an academic assignment, but expanded for fun.
 
 ## Features
-- Classic game of Tic-tac-toe
+- Break free from the boring 3x3 board and play with a customisable `n`x`n` board size (as of release `v2.0.0`)
 - Follows all of the rules in the original game
-- Break free of the same old 3x3 board with a customisable `n`x`n` board size (as of v2.0.0 release)
 - Two-player gameplay (with plans on AI vs AI and Player vs AI with minimax algorithm)
 - Runs on the terminal
-- Minimal ASCII user interface (scales with board size)
-- Made with Python
+- ASCII user interface (scales with board size)
+- Made using Python 3
 
 # Usage
 ## Local
